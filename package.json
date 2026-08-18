@@ -8,7 +8,6 @@
     "start": "node src/index.js",
     "dev": "node --watch src/index.js",
     "deploy": "node src/deploy-commands.js",
-    "balance": "node scripts/balance-simulation.js",
     "test": "node --test"
   },
   "engines": {
